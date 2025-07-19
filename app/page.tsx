@@ -217,6 +217,7 @@ export default function Portfolio() {
     { name: 'C Programming', level: 85, icon: '⚡', color: '#A5C9CA' },
     { name: 'AWS', level: 75, icon: '☁️', color: '#395B64' },
     { name: 'Data Science', level: 88, icon: '📊', color: '#E7F6F2' },
+    { name: 'Web Development', level: 60, icon: '📊', color: '#E7F6F2' },
   ];
 
   const projects = [
