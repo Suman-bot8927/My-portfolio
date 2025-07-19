@@ -217,7 +217,8 @@ export default function Portfolio() {
     { name: 'C Programming', level: 85, icon: '⚡', color: '#A5C9CA' },
     { name: 'AWS', level: 75, icon: '☁️', color: '#395B64' },
     { name: 'Data Science', level: 88, icon: '📊', color: '#E7F6F2' },
-    { name: 'Web Development', level: 60, icon: '📊', color: '#E7F6F2' },
+    { name: 'Frontend', level: 60, icon: '🌐', color: '#29f3baff' },
+    { name: 'Web', level: 70, icon: '🌐', color: '#29f3baff' },
   ];
 
   const projects = [
@@ -249,6 +250,7 @@ export default function Portfolio() {
       tech: ['React', 'Node.js', 'WebSocket'],
       link: 'https://unknown-chat.vercel.app/',
     },
+
   ];
 
   const certifications = [
@@ -377,7 +379,7 @@ export default function Portfolio() {
                 <Sparkles className="h-6 w-6 text-[#A5C9CA]" />
               </motion.div>
               <motion.p className="text-xl md:text-2xl text-gray-300">
-                Computer Science Student & ML Enthusiast
+                Computer Science Student & ML Enthusiastb
               </motion.p>
               <motion.div
                 animate={{ rotate: -360 }}
