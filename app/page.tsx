@@ -227,7 +227,7 @@ export default function Portfolio() {
       description:
         'Developed a predictive model to identify potential employee attrition using supervised machine learning algorithms including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.',
       tech: ['Python', 'Scikit-learn', 'Pandas', 'Machine Learning'],
-      link: 'https://github.com/sumansamanta1746',
+      link: 'https://souvikh007kv.pythonanywhere.com/',
     },
      {
       title: 'Admin Dashboard',
